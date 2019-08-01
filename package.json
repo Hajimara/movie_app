@@ -32,7 +32,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://Hajimara.github.io/react_movie_app",
+  "homepage": "https://Hajimara.github.io/movie_app",
   "devDependencies": {
     "gh-pages": "^2.1.0"
   }

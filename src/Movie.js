@@ -11,7 +11,7 @@ import LinesEllipsis from 'react-lines-ellipsis';
 
 
 
-function Movie ({title, poster, genres, synopsis}){ // 이미 props 사용하는 상황 
+function Movie ({title, poster, genres, synopsis}){ 
     console.log("movie render start")
     return(
         <div className="Movie">
